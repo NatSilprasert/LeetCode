@@ -3,7 +3,7 @@ class Solution {
         List<List<Integer>> answer = new ArrayList<>();
 
         for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<Integer>();
+            List<Integer> row = new ArrayList<>();
 
             row.add(1);  
 
